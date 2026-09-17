@@ -6,7 +6,7 @@ Built for **Future Interns — Prompt Engineering Task 2 (2026)**.
 **Author:** Pilli Sandeep · **Contact:** WhatsApp +91 91002 12761
 
 ---
-
+**live link:**  https://astounding-sprite-7f955b.netlify.app
 ## Why this exists
 
 Polished brand ads get scrolled past. UGC-style ads work because they look like a friend's phone video and sound like an honest opinion. Brands, D2C founders and agencies now buy this content by the script — but most people writing "UGC scripts with AI" produce generic ad copy with a fake-casual voice. It reads like a script. It doesn't read like a person.
