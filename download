@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+node_modules/
+__pycache__
+*.zip
+*.mp4
+*.mov
+01-raw/
+02-audio/
